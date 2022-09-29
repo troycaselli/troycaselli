@@ -16,36 +16,46 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
 
 - 🔭 I’m currently working on improving my testing skills for the General Coding Assessment (GCA).
 - 🌱 I’m currently learning how to implement JSX in React.
-- 👯 I’m looking to collaborate on anything related to web development!
+- ⚒️ I’m looking to collaborate on anything related to web development!
 - ⚡ Fun fact: I'm an avid Mike Wazowski fan.
 
 ---
- 
-<h3>Languages:</h3>
-<div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='c++ icon' height='40px' width='auto'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='html icon' height='40px' width='auto'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='css icon' height='40px' width='auto'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript icon' height='40px' width='auto'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' alt='react icon' height='40px' width='auto'/>
-  <img src='' alt='' height='40px' width='auto'/>
-  <img src='' alt='' height='40px' width='auto'/>
-  <img src='' alt='' height='40px' width='auto'/>
-</div>
 
-<h3>Tools:</h3>
-<div>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' alt='github icon' height='40px' width='auto'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='vs code icon' height='40px' width='auto'/>
-  <img src='https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg' alt='codepen icon' height='40px' width='auto'/>
-  <img src='https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg' alt='cypress icon' height='40px' width='auto'/>
-  <img src='' alt='' height='40px' width='auto'/>
-  <img src='' alt='' height='40px' width='auto'/>
-</div>
+<details>
+  <summary>Languages and Tools</summary>
+  <div align='center'>
+    <h3>Languages:</h3>
+    <div>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='c++ icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='html icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='css icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' alt='react icon' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
+    </div>
+    <h3>Tools:</h3>
+    <div>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' alt='github icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='vs code icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg' alt='codepen icon' height='40px' width='auto'/>
+      <img src='https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg' alt='cypress icon' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
+    </div>
+  </div>
+  <br />
+  <br />
+</details>
  
  ---
-
-<h3>My Stats:</h3>
-<img src='http://github-readme-streak-stats.herokuapp.com?user=troycaselli&theme=dark&background=000000)'/>
-<!-- <img src='https://github-readme-stats.vercel.app/api?username=troycaselli&layout=compact&theme=vision-friendly-dark'/> -->
-<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=troycaselli&layout=compact&theme=vision-friendly-dark'/> -->
+ 
+<details>
+  <summary>My Statistics</summary>
+  <div align='center'>
+    <img src='http://github-readme-streak-stats.herokuapp.com?user=troycaselli&theme=dark&background=000000)'/>
+    <!-- <img src='https://github-readme-stats.vercel.app/api?username=troycaselli&layout=compact&theme=vision-friendly-dark'/> -->
+    <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=troycaselli&layout=compact&theme=vision-friendly-dark'/> -->
+  </div>
+</details>
