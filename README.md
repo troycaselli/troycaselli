@@ -47,5 +47,5 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
 
 <h3>My Stats:</h3>
 <img src='http://github-readme-streak-stats.herokuapp.com?user=troycaselli&theme=dark&background=000000)'/>
-<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=troycaselli&layout=compact&theme=vision-friendly-dark'/>
--->
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=troycaselli&layout=compact&theme=vision-friendly-dark'/> -->
+<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=troycaselli&layout=compact&theme=vision-friendly-dark'/> -->
