@@ -26,7 +26,7 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
   <div align='center'>
     <h3>Languages:</h3>
     <div>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='c++ icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='html icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='css icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript icon' height='40px' width='auto'/>
