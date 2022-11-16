@@ -15,7 +15,7 @@
 My name is Troy Caselli (27), and I am entering the software engineering field of work in order to create quality technology for users across the globe to the glory of God. I  am currently enrolled as a student in the Full Stack Web Development Program at Bloom Institute of Technology.
 
 - 🔭 I’m currently working on improving my testing skills for the General Coding Assessment (GCA).
-- 🌱 I’m currently learning how to implement JSX in React.
+- 🌱 I’m currently learning how to use express and nodeJS.
 - ⚒️ I’m looking to collaborate on anything related to web development!
 - ⚡ Fun fact: I'm an avid Mike Wazowski fan.
 
