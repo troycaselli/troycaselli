@@ -32,6 +32,11 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
       <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' alt='react icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' alt='nodejs icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express icon' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
     </div>
@@ -39,8 +44,10 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
     <div>
       <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' alt='github icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='vs code icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg' alt='slack icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg' alt='codepen icon' height='40px' width='auto'/>
       <img src='https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg' alt='cypress icon' height='40px' width='auto'/>
+      <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
     </div>
