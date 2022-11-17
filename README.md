@@ -34,7 +34,7 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
       <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express icon' height='40px' width='auto'/>
-      <img src='' alt='' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' alt='sqlite icon' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
