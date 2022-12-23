@@ -12,7 +12,7 @@
 <h3>About Me:</h3>
 <b>Follower of Christ. Husband and father. Web developer.</b>
 
-My name is Troy Caselli (27), and I am entering the software engineering field of work in order to create quality technology for users across the globe to the glory of God. I  am currently enrolled as a student in the Full Stack Web Development Program at Bloom Institute of Technology.
+My name is Troy Caselli (27), and I am entering the software engineering field of work in order to create quality software for users across the globe to the glory of God. I  am currently enrolled as a student in the Full Stack Web Development Program at Bloom Institute of Technology.
 
 - 🔭 I’m currently working on improving my testing skills for the General Coding Assessment (GCA).
 - 🌱 I’m currently learning how to use express and nodeJS.
