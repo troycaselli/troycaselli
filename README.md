@@ -21,9 +21,9 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
 
 Technical and Non-Technical Skills:
 <br />
-HTML, CSS, Javascript, React.js, Node.js.
+- HTML, CSS, Javascript, React.js, Node.js.
 <br />
-I am hard-working, disciplined, devoted, and sincere.
+- I am hard-working, disciplined, devoted, and sincere.
 
 ---
 
