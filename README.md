@@ -26,9 +26,9 @@ Technical and Non-Technical Skills:
 ---
 
 <details>
-  <summary>Languages and Tools</summary>
+  <summary>Languages, Libraries, and Tools</summary>
   <div align='center'>
-    <h3>Languages:</h3>
+    <h3>Languages and Libraries:</h3>
     <div>
       <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='html icon' height='40px' width='auto'/>
