@@ -40,6 +40,8 @@ Technical and Non-Technical Skills:
       <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' alt='sqlite icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' alt='next.js' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg' alt='less' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
@@ -52,8 +54,6 @@ Technical and Non-Technical Skills:
       <img src='https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg' alt='slack icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg' alt='codepen icon' height='40px' width='auto'/>
       <img src='https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg' alt='cypress icon' height='40px' width='auto'/>
-      <img src='' alt='' height='40px' width='auto'/>
-      <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
