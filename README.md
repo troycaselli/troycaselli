@@ -21,8 +21,8 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
 
 Technical Skills:
 - Front End: JavaScript, React.js, TypeScript, Next.js, C++, Axios, Redux, Context API, HTML, CSS (Less, Tailwind, ChakraUI), Jest, Cypress, Yup.
--Back End: Node.js, Express, SQLite3, Relational Databases, Docker, knex.js, PHP.
--Additional Skills: Project Management, GitHub, GitLab, VS Code, Git CLI, Postman, HTTPie, Vercel, Netlify, Deployment, Architecture, Algorithms, Debugging.
+- Back End: Node.js, Express, SQLite3, Relational Databases, Docker, knex.js, PHP.
+- Additional Skills: Project Management, GitHub, GitLab, VS Code, Git CLI, Postman, HTTPie, Vercel, Netlify, Deployment, Architecture, Algorithms, Debugging.
 
 Non-Technical Skills:
 - Self-learning, working in teams (member and lead) and independently, instruction and management, adaptability, written and verbal communication, solving problems, customer satisfaction, and quality assurance.
