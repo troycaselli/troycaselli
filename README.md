@@ -31,18 +31,18 @@ Technical and Non-Technical Skills:
     <h3>Languages and Libraries:</h3>
     <div>
       <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='html icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='css icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='typescript icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' alt='react icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' alt='next.js' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='html icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='css icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg' alt='less' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwind css' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' alt='sqlite icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' alt='next.js' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg' alt='less' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwind css' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
