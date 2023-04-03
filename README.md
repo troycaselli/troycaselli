@@ -12,9 +12,9 @@
 <h3>About Me:</h3>
 <b>Follower of Christ. Husband and father. Web developer.</b>
 
-My name is Troy Caselli (27), and I am entering the software engineering field of work in order to create quality software for users across the globe to the glory of God. I  am currently enrolled as a student in the Full Stack Web Development Program at Bloom Institute of Technology.
+My name is Troy Caselli (27), and I am entering the software engineering field of work in order to create quality software for users across the globe to the glory of God. I just received certification for the Full Stack Web Development Program at Bloom Institute of Technology.
 
-- 🌱 I am currently self-teaching TypeScript in order to contribute to a project purposed to mitigate homelessness in my home town.
+- 🌱 I am currently self-laerning TypeScript in order to contribute to a project purposed to mitigate homelessness in my home town.
 - 🔭 Presently, I am working on creating an intake form in order to assist homeless or nearly homeless families in Spokane.
 - ⚒️ I am seeking a full-time position as a Full-Stack Web Developer, Javascript/React Developer, or Software Engineer.
 - ⚡ Fun fact: I'm an avid Mike Wazowski fan.
