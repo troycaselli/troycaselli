@@ -20,7 +20,11 @@ My name is Troy Caselli (27), and I am entering the software engineering field o
 - ⚡ Fun fact: I'm an avid Mike Wazowski fan.
 
 Technical and Non-Technical Skills:
-- HTML, CSS, Javascript, React.js, Node.js.
+- Front End: JavaScript, React.js, TypeScript, Next.js, C++, Axios, Redux, Context API, HTML, CSS (Less, Tailwind, ChakraUI), Jest, Cypress, Yup.
+Back End: Node.js, Express, SQLite3, Relational Databases, Docker, knex.js, PHP.
+Additional Skills: Project Management, GitHub, GitLab, VS Code, Git CLI, Postman, HTTPie, Vercel, Netlify, Deployment, Architecture, Algorithms, Debugging.
+![image](https://user-images.githubusercontent.com/84542261/229606080-948b1530-826b-4bc4-96a3-82d0688d8607.png)
+
 - I am hard-working, disciplined, devoted, and sincere.
 
 ---
