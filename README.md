@@ -1,12 +1,4 @@
-<header>
-  <div align='center'>
-    <h3>👋 Hey! Let's Collaborate!</h3>
-    <a href='https://www.linkedin.com/in/troy-caselli/'>
-      <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' alt='linkedIn link'/>
-    </a>
-  </div>
-</header>
-
+![banner](https://github.com/troycaselli/troycaselli/blob/main/troy-caselli-banner.gif)
 ---
 
 <h3>About Me:</h3>
