@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/troycaselli/troycaselli-public/blob/main/github-banner.gif" alt="animated" />
 </div>
-
 ---
 
 <h3>About Me:</h3>
