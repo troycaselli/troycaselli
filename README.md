@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/troycaselli/troycaselli/blob/main/Navy%20Tech%20Cyber%20Security%20Concept%20Video%20Ad.gif" alt="animated" />
-</p>
+</div>
 
 ---
 
