@@ -1,7 +1,11 @@
-<div align="center">
+<div align="center" className="desktop-image">
   <img src="https://github.com/troycaselli/troycaselli-public/blob/main/github-banner.gif" alt="animated" />
 </div>
----
+<div align="center" className="mobile-image">
+  <img src="https://github.com/troycaselli/troycaselli-public/blob/main/github-banner-low.gif" alt="animated" />
+</div>
+
+----
 
 <h3>About Me:</h3>
 <b>Follower of Christ. Husband and Father. Web Developer.</b>
