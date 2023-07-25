@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/troycaselli/troycaselli-public/blob/main/github-banner-low.gif" alt="animated" />
+  <img src="https://github.com/troycaselli/troycaselli-public/blob/main/github-banner.gif" alt="animated" />
 </div>
 
 ---
