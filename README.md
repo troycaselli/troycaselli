@@ -1,3 +1,21 @@
+<style>
+  .desktop-image {
+  display: block;
+  }
+.mobile-image {
+  display: none;
+}
+
+@media(max-width: 768px) {
+  .desktop-image {
+    display: none;
+  }
+  .mobile-image {
+    display: block;
+  }
+}
+</style>
+
 <div align="center" className="desktop-image">
   <img src="https://github.com/troycaselli/troycaselli-public/blob/main/github-banner.gif" alt="animated" />
 </div>
