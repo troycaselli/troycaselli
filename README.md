@@ -1,4 +1,4 @@
-![banner](https://github.com/troycaselli/troycaselli/blob/main/troy-caselli-banner.gif)
+![banner](https://github.com/troycaselli/troycaselli/blob/main/Navy%20Tech%20Cyber%20Security%20Concept%20Video%20Ad.gif)
 ---
 
 <h3>About Me:</h3>
