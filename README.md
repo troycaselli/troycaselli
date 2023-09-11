@@ -9,7 +9,7 @@
 
 As a web developer, my mission is to create impactful and user-centric software for users across the globe to the glory of God.
 
-- 🌱 I am growing in my tech skills as I self-learn TypeScript and styling libraries such as Tailwind and Chakra UI.
+- 🌱 I am expanding my ability to code in multiple frameworks amd am currently building a TS project with Angular.
 - 🔭 Presently, I am creating an intake form for Family Promise of Spokane in order to assist homeless or nearly homeless families in Spokane.
 - ⚒️ I am seeking a full-time position as a Full-Stack Web Developer (I specialize in object-oriented languages and the React framework).
 - 🏆 I am a certified Full Stack Web Developer, having graduated from Bloom Institute of Technology.
