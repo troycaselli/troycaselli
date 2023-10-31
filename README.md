@@ -16,9 +16,9 @@ As a web developer, my mission is to create impactful and user-centric software 
 - ⚡ Fun fact: I'm an avid Mike Wazowski fan.
 
 Technical Skills:
-- Front-End: JavaScript, React.js, TypeScript, Next.js, HTML, CSS (Less, Tailwind, ChakraUI), Axios, Redux, Context API, Yup
-- Back-End: Node.js, Relational Databases (SQLite3 and PostgreSQL), Express, knex.js, Docker, C++, Ruby, Ruby on Rails, PHP
-- Additional Skills: API endpoints/integration, automation testing (Jest and Cypress), Debugging, Algorithms, Architecture, Project Management, Git CLI, GitHub, GitLab, VS Code, Postman, HTTPie, Vercel, Netlify, Deployment
+- Front-End: JavaScript, React.js, TypeScript, Angular, Next.js, Axios, Redux, Context API, HTML, CSS (Less, Tailwind, ChakraUI), Yup
+- Back-End: Node.js, Express, knex.js, Relational Databases (SQLite3 and PostgreSQL), Docker, Python, C++, PHP
+- Additional Skills: API endpoints/Integration, automation testing (Jest and Cypress), Project Management, GitHub, GitLab, VS Code, Git CLI, Postman, HTTPie, Vercel, Netlify, Deployment, Architecture, Algorithms, Debugging, Slack, Figma
 
 Non-Technical Skills:
 - Self-learning, working in teams (member and lead) and independently, instruction and management, adaptability, written and verbal communication, solving problems, customer satisfaction, and quality assurance.
