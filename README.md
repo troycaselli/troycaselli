@@ -33,32 +33,35 @@ Top Character Qualities:
   <div align='center'>
     <h3>Languages and Libraries:</h3>
     <div>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='javascript icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='typescript icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' alt='react icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' alt='next.js' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' alt='typescript icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg' alt='angular icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' alt='next.js icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='redux icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='html icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='css icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg' alt='less' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwind css' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg' alt='less icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwind css icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' alt='express icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' alt='sqlite icon' height='40px' width='auto'/>
-      <img src='' alt='' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg' alt='postgreSQL icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' alt='python icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg' alt='c icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' alt='php icon' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
     </div>
     <h3>Tools:</h3>
     <div>
       <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' alt='github icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg' alt='gitlab' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg' alt='gitlab icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' alt='vs code icon' height='40px' width='auto'/>
       <img src='https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg' alt='slack icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg' alt='codepen icon' height='40px' width='auto'/>
       <img src='https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.svg' alt='cypress icon' height='40px' width='auto'/>
-      <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='docker' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='docker icon' height='40px' width='auto'/>
+      <img src='https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg' alt='codepen icon' height='40px' width='auto'/>
       <img src='' alt='' height='40px' width='auto'/>
     </div>
   </div>
